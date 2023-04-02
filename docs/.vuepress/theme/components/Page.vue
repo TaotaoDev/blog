@@ -58,7 +58,7 @@
     </div>
 
     <slot name="bottom"/>
-    <div class="warning custom-block juzhong">
+      <div class="warning custom-block juzhong">
       <p class="custom-block-title">
         关于评论
       </p>

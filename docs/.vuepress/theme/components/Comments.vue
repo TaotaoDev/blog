@@ -22,8 +22,8 @@ export default {
       window.AV = require("leancloud-storage");
       const valine = new Valine({
         el: "#valine-vuepress-comment",
-        appId: "DxU5fgMdilCKbdcuzHAXAOhF-gzGzoHsz",
-        appKey: "YVvhfTkk07VtbJLpOLBzYbdu",
+        appId: "pWRei1kgSC4ABRhQxjqYk6S2-gzGzoHsz",
+        appKey: "6kXgVpaRtehMwG2YaN8NC6Yj",
         placeholder: "发现错误,纠正一下",
         notify: true,
         verify: true,
